@@ -1,6 +1,8 @@
 Simple Working Website using Django. Done from "techWithTim" tutorial on Django
 
-Learned From this Tutorial-
+Learned From this Tutorial-\
+\
+
    Templates & Custom HTML\
    Simple Forms\
    Custom Forms\
