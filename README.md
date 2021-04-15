@@ -10,4 +10,4 @@ Learned From this Tutorial-\
    How to Add Bootstrap\
    User Registration & Sign Up Page\
    Login, Logout and User Authentication\
-   User Specific Pages/Access\
+   User Specific Pages/Access
